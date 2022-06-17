@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Vitin-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/804828239485730826/987475968706904106/download20220605185634.png?width=452&height=452">
+  <img align="right" alt="Vitin-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/804828239485730826/987475968706904106/download20220605185634.png?width=452&height=452">
 </div>
   
   ##
